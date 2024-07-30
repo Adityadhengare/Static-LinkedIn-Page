@@ -1,2 +1,2 @@
 # Static-LinkedIn-Page
-major assignment of linkedin 
+It is my Static LinkedIn Page created by using HTML &amp; CSS
